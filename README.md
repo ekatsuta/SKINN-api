@@ -2,8 +2,6 @@
 ------
 **Final Project for [Flatiron School](https://flatironschool.com/) Module 4 (React.js)**
 
-![Main Component](skinn-app-frontend/public/app-screenshot.png "Main Container Component Rendering")
-
 ## PROJECT DESCRIPTION
 
 ### Goal
@@ -32,7 +30,7 @@ Main Components:
 
 ## MODEL FLOW CHART
 
-![Model Flow Chart](skinn-app-frontend/public/model-flow.png "Model Flow Chart for our Backend")
+![Model Flow Chart](public/model-flow.png "Model Flow Chart for our Backend")
 
 
 ### Collaborator:
